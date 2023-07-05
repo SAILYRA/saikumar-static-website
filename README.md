@@ -1,6 +1,5 @@
-# bvenkydevops.github.io
+# saikumar-static-website
 
-#teja badugu
 
 
 #this is a sample demo practice project
